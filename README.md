@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+# Ammar Shawky
+
+CS student at Benha University, focused on networking and cloud security.
+
+- Currently learning CCNA and AWS Solutions Architect
+- Currently building projects in networking and cloud security
+- Ask me about Linux, networking, or anything cloud related
+
+**Skills**
+Python · Bash · Linux · TCP/IP · VLANs · Subnetting · Git · Wireshark · Packet Tracer
+
+**Connect**
+[LinkedIn](https://www.linkedin.com/in/ammar-shawky-76a410371/)
+
 <!--
 **pier-o/pier-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
