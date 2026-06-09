@@ -2,14 +2,22 @@
 
 # Ammar Shawky
 
-CS student at Benha University, focused on networking and cloud security.
+CS student at Benha University, building toward cloud security.
 
-- Currently learning CCNA and AWS Solutions Architect
-- Currently building projects in networking and cloud security
-- Ask me about Linux, networking, or anything cloud related
+If I'm learning something, I'm probably also trying to break it 
+or build something with it.
 
-**Skills**
-Python · Bash · Linux · TCP/IP · VLANs · Subnetting · Git · Wireshark · Packet Tracer
+Currently working through CCNA and AWS — networking by day, 
+Linux by night.
+
+My setup: Arch Linux, Neovim, terminal everything.
+
+**Fun facts:**
+- I daily drive Arch Linux (yes, I install it from scratch for fun)
+- Berserk is the greatest manga ever written, not up for debate
+- I go to the gym and I'm convinced subnetting and lifting 
+  have the same learning curve
+- Egypt 🇪🇬
 
 **Connect**
 [LinkedIn](https://www.linkedin.com/in/ammar-shawky-76a410371/)
