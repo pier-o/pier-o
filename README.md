@@ -14,7 +14,7 @@ My setup: Arch Linux, Neovim, terminal everything.
 - I daily drive Arch Linux btw (yes, I install it from scratch for fun)
 - Berserk is the greatest manga ever written, not up for debate
 - I go to the gym and I'm convinced subnetting and lifting 
-  have the same learning curve 
+  have the same learning curve :)
 
 **Connect**
 [LinkedIn](https://www.linkedin.com/in/ammar-shawky-76a410371/)
